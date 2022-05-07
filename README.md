@@ -10,10 +10,10 @@
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/kahen/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kahen&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/kahen/kahen.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kahen&repo=kahen.github.io&theme=buefy" />
 </a>
 
